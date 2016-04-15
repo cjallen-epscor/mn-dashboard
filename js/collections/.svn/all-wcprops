@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/13051/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/collections
+END
+D1NodeList.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/13669/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/collections/D1NodeList.js
+END
+D1NodeStatusList.js
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/13680/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/collections/D1NodeStatusList.js
+END
+D1SpatialData.js
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/13051/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/collections/D1SpatialData.js
+END
+D1NodeInfoList.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/collections/D1NodeInfoList.js
+END

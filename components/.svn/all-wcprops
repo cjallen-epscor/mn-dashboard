@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/13051/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components
+END
+backbone.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/backbone.js
+END
+domready.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/domready.js
+END
+jquery.tablesorter.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/jquery.tablesorter.js
+END
+underscore.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/underscore.js
+END
+gunzip.min.js.map
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/13051/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/gunzip.min.js.map
+END
+require.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/require.js
+END
+async.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/async.js
+END
+holder.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/holder.js
+END
+d3.v3.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/d3.v3.min.js
+END
+moment.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/moment.min.js
+END
+backbone.localStorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/backbone.localStorage.js
+END
+jquery-1.9.1.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/13570/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/jquery-1.9.1.js
+END
+bootstrap311.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/13567/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/bootstrap311.min.js
+END
+backbone-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/backbone-min.js
+END
+colorbrewer.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/colorbrewer.js
+END
+jquery.tablesorter.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/jquery.tablesorter.min.js
+END
+markerclusterer_compiled.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/markerclusterer_compiled.js
+END
+progressbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/13051/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/progressbar.js
+END
+underscore-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/underscore-min.js
+END
+json2.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/json2.js
+END
+d3.v3.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/d3.v3.js
+END
+require-text.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/require-text.js
+END
+require.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/require.min.js
+END
+gunzip.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/13051/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/gunzip.min.js
+END
+bootstrap.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/bootstrap.min.js
+END
+moment.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/moment.js
+END
+propertyParser.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/propertyParser.js
+END
+jquery.min.map
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/components/jquery.min.map
+END

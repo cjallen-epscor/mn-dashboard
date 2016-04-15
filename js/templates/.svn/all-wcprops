@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/13051/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates
+END
+loading.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/13567/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates/loading.html
+END
+mainHeader.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates/mainHeader.html
+END
+defaultHeader.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates/defaultHeader.html
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates/footer.html
+END
+maps.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/13061/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates/maps.html
+END
+nodeSummary.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/13680/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates/nodeSummary.html
+END
+alert.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/13567/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates/alert.html
+END
+nodes.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates/nodes.html
+END
+nodeDetail.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/13680/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates/nodeDetail.html
+END
+nodeSummaryReplicaNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/13669/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates/nodeSummaryReplicaNode.html
+END
+nodeSummaryNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/13669/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates/nodeSummaryNode.html
+END
+navbar.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates/navbar.html
+END
+d1Node.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/12974/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates/d1Node.html
+END
+nodeSummaryUpcomingNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/13669/software/cicore/branches/D1_DASHBOARD_v1.0/ui/src/main/webapp/js/templates/nodeSummaryUpcomingNode.html
+END
