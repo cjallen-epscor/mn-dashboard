@@ -1,13 +1,14 @@
 /*global Backbone */
 'use strict';
 
-define(['jquery', 'underscore', 'backbone', 'views/IndexView', 'views/NodeSummaryView', 'views/NodeDetailView'], 				
-function ($, _, Backbone, IndexView, NodeSummaryView, NodeDetailView) {
+define(['jquery', 'underscore', 'backbone', 'views/IndexView', 'views/NodeSummaryView', 'views/NodeDetailView', 'views/NodeSummaryUpcomingTableView.js'], 				
+function ($, _, Backbone, IndexView, NodeSummaryView, NodeDetailView, NodeSummaryUpcomingTableView) {
 
 	var app = app || {};
 	var indexView = new IndexView();
 	var nodeSummaryView = new NodeSummaryView();
 	var nodeDetailView = new NodeDetailView();
+	var NodeSummaryUpcomingTableView = new NodeSummaryUpcomingTableView();
 
 	
 	/* Dashboard Router
@@ -16,7 +17,8 @@ function ($, _, Backbone, IndexView, NodeSummaryView, NodeDetailView) {
 		routes: {
 			''                          		: 'renderNodes', // the default route
 			'nodes(/:shortNodeId)(/:anchorId)'	: 'renderNodes', // nodes page w/optional nodeId filter
-			'maps'                      		: 'renderMaps'  // map page
+			'maps'                      		: 'renderMaps' ,  // map page
+			'upcoming'                  		: 'renderNodes' // Upcoming Node Page #upcoming
 
 		},
 
